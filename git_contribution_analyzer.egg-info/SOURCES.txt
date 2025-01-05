@@ -1,0 +1,7 @@
+setup.py
+git_contribution_analyzer/__init__.py
+git_contribution_analyzer.egg-info/PKG-INFO
+git_contribution_analyzer.egg-info/SOURCES.txt
+git_contribution_analyzer.egg-info/dependency_links.txt
+git_contribution_analyzer.egg-info/requires.txt
+git_contribution_analyzer.egg-info/top_level.txt

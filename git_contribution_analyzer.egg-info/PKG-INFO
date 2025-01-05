@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: git_contribution_analyzer
+Version: 0.1.0
+Summary: A tool for analyzing git contributions across multiple repositories
+Author: Wavenet
+Requires-Python: >=3.7
+Requires-Dist: pandas
+Requires-Dist: matplotlib
